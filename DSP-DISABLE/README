@@ -1,0 +1,5 @@
+Secondary system description table for disabling the HDAS device within macOS. This SSDT is a work in progress and has not been tested yet.
+
+The main purpose of this SSDT is to accomplish the following:
+- Improve battery life
+- Fix wake from sleep bugs
