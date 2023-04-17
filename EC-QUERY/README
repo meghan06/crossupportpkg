@@ -2,3 +2,6 @@ Secondary system description table for improved keyboard backlight support with 
 only supports devices with ACPI path of _SB_.PCI0.PS2K. 
 
 This SSDT is a work in progress and may not function as intended or even be nonfunctional on some devices.
+
+// Credits:
+// isi95010 for writing this
