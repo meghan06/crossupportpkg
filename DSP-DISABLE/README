@@ -1,5 +1,6 @@
-Secondary system description table for disabling the HDAS device within macOS. This SSDT is a work in progress and has not been tested yet.
+Secondary system description table for disabling the HDAS device within macOS. This SSDT is a work in progress and has not been tested yet. 
 
 The main purpose of this SSDT is to accomplish the following:
 - Improve battery life
-- Fix wake from sleep bugs
+- Fix the bugs from waking from sleep.
+  - Speakers fail to re-init after waking from sleep. The effect of this is widely unknown.
