@@ -1,4 +1,4 @@
 Secondary system description table for improved keyboard backlight support with Chromebooks keyboards complying with the PS/2 specification. Currently
 only supports devices with ACPI path of _SB_.PCI0.PS2K. 
 
-This SSDT is a work in progress and may not function as intended on some devices or even be nonfunctional.
+This SSDT is a work in progress and may not function as intended or even be nonfunctional on some devices.
