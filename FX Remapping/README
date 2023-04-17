@@ -1,0 +1,6 @@
+Secondary system description table to remap top row (F1 - F10) keys in macOS. Keyboard backlight is a WIP and is not currently functional. This SSDT
+is a work in progress and may not function as intended or even be nonfunctional on some devices. 
+
+// Credits:
+// isi95010 for writing this
+// RehabMan for the PS2 scan codes
